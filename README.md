@@ -1,16 +1,22 @@
-## Hi there 👋
+## Scott Brabson
 
-<!--
-**brabbuss/brabbuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer in Colorado. I spent 2021–2026 at Coalesce.io, joining as their fifth
+engineering hire at pre-seed and staying through Series B. My first two years were mostly
+frontend, building the surfaces where people configured their work; after that I owned the engine
+underneath them — effectively a compiler that turned a git-backed data model into SQL and ran it
+against customers' warehouses. 
 
-Here are some ideas to get you started:
+That work lives in a private monorepo, which is why this profile
+is quiet; the commit history is on [@sbrabs](https://github.com/sbrabs), my work account.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aiming to get some public repos up now that I'm on the job hunt.
+
+### Lixir — [lixir.io](https://lixir.io)
+
+Voice-based technical interview practice with an AI interviewer that comments on your code in real
+time, over streaming STT/TTS in a live LLM loop. A Next.js app I direct, review, and ship, with AI
+writing much of the code. Live and under active development with some early users.
+
+### Other projects
+
+I have a couple other projects in-flight that I hope to be releasing on mobile very soon!
