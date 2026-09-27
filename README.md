@@ -14,3 +14,9 @@ is quiet; the commit history is on [@sbrabs](https://github.com/sbrabs), my work
 Voice-based technical interview practice with an AI interviewer that comments on your code in real
 time, over streaming STT/TTS in a live LLM loop. A Next.js app I direct, review, and ship, with AI
 writing much of the code. Live and under active development with some early users.
+
+### mini-sql-editor — [repo](https://github.com/brabbuss/mini-sql-editor)
+
+A small SQL editor for ClickHouse: queries and scripts, charts, file inserts. The design comes
+from lessons at Coalesce running customers' SQL on their own warehouses: errors that say whose
+fault they are, runs that outlive the page, and a status that matches what really happened.
