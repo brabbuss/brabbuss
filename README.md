@@ -23,6 +23,7 @@ fault they are, runs that outlive the page, and a status that matches what reall
 
 ### Goreboy — [goreboy.com](https://goreboy.com)
 
-An outrageous mobile game that started as something to make my niece laugh and has morphed into
-a seriously entertaining gaming experience that seeks to impart the joys and pains of old school
-NES gaming. In internal testing, launch imminent. 
+A mobile game that started as something to make my niece laugh and kept going. It aims
+for the feel of old-school NES play, including the parts that hurt. Built in what I know
+best, React and TypeScript, wrapped in Capacitor. Firestore plays scorekeeper for the
+leaderboard. In internal testing; launch soon.
