@@ -20,3 +20,9 @@ writing much of the code. Live and under active development with some early user
 A small SQL editor for ClickHouse: queries and scripts, charts, file inserts. The design comes
 from lessons at Coalesce running customers' SQL on their own warehouses: errors that say whose
 fault they are, runs that outlive the page, and a status that matches what really happened.
+
+### Goreboy — [goreboy.com](https://goreboy.com)
+
+An outrageous mobile game that started as something to make my niece laugh and has morphed into
+a seriously entertaining gaming experience that seeks to impart the joys and pains of old school
+NES gaming. In internal testing, launch imminent. 
